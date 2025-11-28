@@ -1,23 +1,34 @@
 # 🧑‍💻 Repositório de Projetos – Engenharia de Software (UDF)
 
-Este repositório reúne todos os projetos e atividades que desenvolvi durante o curso de **Engenharia de Software** e estudos pessoais.  
-Aqui você encontra desde pequenos exercícios de lógica até um sistema completo em PHP com CRUD e banco de dados.
+Bem-vindo ao meu repositório!  
+Aqui reúno todos os projetos, exercícios e sistemas desenvolvidos durante meu curso de **Engenharia de Software** e estudos pessoais.
 
 ---
 
-## 📌 Índice dos Projetos
+## 📌 Índice Geral do Repositório
+- [🔥 ORION TECH PRO – Sistema Completo com CRUD](#-1-orion-tech-pro--sistema-completo-com-crud)
+- [📘 Atividades de Dicionários](#-2-atividades-de-dicionários)
+- [📘 Módulo 1](#-3-módulo-1)
+- [📘 Módulo 2](#-4-módulo-2)
+- [📘 Módulo 3](#-5-módulo-3)
+- [🛠 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [⬇️ Como baixar e testar o sistema ORION TECH PRO](#️-como-baixar-e-testar-o-sistema-orion-tech-pro)
+- [📬 Contato](#-contato)
 
-### 🔥 1. ORION TECH PRO – Sistema Completo com CRUD  
+---
+
+# 🔥 1. ORION TECH PRO – Sistema Completo com CRUD
+
 **Tecnologias:** PHP • MySQL • HTML/CSS • Apache (XAMPP)
 
-Um sistema completo para gerenciamento de clientes, vendedores e produtos, incluindo:
+Sistema completo para gerenciamento de **Clientes, Vendedores e Produtos**, com:
 
-- ✔ Cadastro  
-- ✔ Listagem  
-- ✔ Edição  
-- ✔ Exclusão  
-- ✔ Integração com banco de dados  
-- ✔ Tela inicial organizada com menus
+- ✔ Cadastro
+- ✔ Listagem
+- ✔ Edição
+- ✔ Exclusão
+- ✔ Integração com MySQL
+- ✔ Interface organizada
 
 O projeto inclui:
 - Código completo em PHP  
@@ -25,68 +36,113 @@ O projeto inclui:
 - Pseudocódigo  
 - Fluxograma  
 
-📂 Pasta do projeto: **/ORION-TECH-PRO**
+📂 Pasta: **/ORION-TECH-PRO**
 
 ---
 
-## 📘 2. Atividades de Dicionários  
-
-Atividade feita para testar os conhecimentos básicos de Python
-
+# 📘 2. Atividades de Dicionários
+Atividade em Python praticando estruturas de dicionário e lógica.  
 📂 Pasta: **/Atividades-de-Dicionarios**
 
 ---
 
-## 📘 3. Modulo 1  
-Atividades introdutórias da disciplina: conceitos básicos, lógica e primeiros exercícios.
-
+# 📘 3. Módulo 1
 Conteúdos trabalhados:
 - Variáveis  
 - Operadores aritméticos  
-- Entrada e saída de dados  
-- Estruturas simples  
+- Entrada e saída  
+- Exercícios básicos  
 
 📂 Pasta: **/modulo1**
 
 ---
 
-## 📘 4. Modulo 2  
-Atividades envolvendo lógica de programação com:
-
-- Condicionais (if / else / switch)  
+# 📘 4. Módulo 2
+Conteúdos trabalhados:
+- If / else / switch  
 - Operadores lógicos  
 - Tomada de decisão  
-- Exercícios práticos guiados pelo professor  
 
 📂 Pasta: **/modulo2**
 
 ---
 
-## 📘 5. Modulo 3  
-Atividades envolvendo:
-
-- Estruturas de repetição (for, while, do-while)  
-- Controle de fluxo  
-- Exercícios mais complexos e completos  
+# 📘 5. Módulo 3
+Conteúdos trabalhados:
+- Estruturas de repetição (for / while / do-while)  
+- Exercícios intermediários  
 
 📂 Pasta: **/modulo3**
 
 ---
 
-## 🛠 Tecnologias utilizadas nos projetos
+# 🛠 Tecnologias Utilizadas
 
-- **C++**
-- **PHP**
-- **MySQL**
-- **HTML / CSS**
-- **Git & GitHub**
-- **XAMPP / Apache**
+| Área | Tecnologias |
+|------|-------------|
+| **Programação** | C++, PHP, Python |
+| **Banco de Dados** | MySQL |
+| **Frontend** | HTML, CSS |
+| **Ferramentas** | XAMPP, Apache, Git & GitHub |
 
 ---
 
-## 📬 Contato
-- **E-mail:** rafael.radiologic@gmail.com  
-- **GitHub:** https://github.com/AbnerPedroso  
+# ⬇️ Como baixar e testar o sistema ORION TECH PRO
 
-💡 *Este repositório será atualizado conforme novos projetos forem sendo desenvolvidos ao longo do curso.*
+## 1️⃣ Baixar o repositório
+Clique no botão **Code → Download ZIP**, ou:
 
+```bash
+git clone https://github.com/AbnerPedroso/SEU-REPOSITORIO.git
+```
+
+---
+
+## 2️⃣ Instalar o XAMPP
+Baixe em: https://www.apachefriends.org/  
+Ative:
+- Apache  
+- MySQL
+
+---
+
+## 3️⃣ Colocar o projeto na pasta correta
+
+**Windows**
+```
+C:\xampp\htdocs\
+```
+
+**Linux**
+```
+/opt/lampp/htdocs/
+```
+
+Copie a pasta **ORION-TECH-PRO** para lá.
+
+---
+
+## 4️⃣ Importar o banco de dados
+
+1. Acesse:
+```
+http://localhost/phpmyadmin
+```
+2. Clique em **Importar**  
+3. Escolha o arquivo `.sql`  
+4. Clique em **Executar**
+
+---
+
+## 5️⃣ Executar o sistema
+
+Acesse no navegador:
+```
+http://localhost/ORION-TECH-PRO
+```
+
+---
+
+# 📬 Contato
+📧 **E-mail:** rafael.radiologic@gmail.com  
+🐙 **GitHub:** https://github.com/AbnerPedroso  
